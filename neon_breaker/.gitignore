@@ -1,0 +1,12 @@
+# Godot 4 cache / editor data
+.godot/
+*.translation
+
+# Exported builds
+build/
+export/
+export_presets.cfg
+
+# OS / editor noise
+.DS_Store
+*.tmp
