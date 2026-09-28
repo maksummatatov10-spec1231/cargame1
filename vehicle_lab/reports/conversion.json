@@ -1,0 +1,1450 @@
+{
+  "converter": "4.5.8 LTS",
+  "triangles_original": 617080,
+  "triangles_preview": 222985,
+  "meshes": [
+    {
+      "object": "Object_10",
+      "triangles_original": 70,
+      "triangles_preview": 70
+    },
+    {
+      "object": "Object_100",
+      "triangles_original": 1845,
+      "triangles_preview": 1845
+    },
+    {
+      "object": "Object_101",
+      "triangles_original": 221,
+      "triangles_preview": 221
+    },
+    {
+      "object": "Object_102",
+      "triangles_original": 10,
+      "triangles_preview": 10
+    },
+    {
+      "object": "Object_103",
+      "triangles_original": 12,
+      "triangles_preview": 12
+    },
+    {
+      "object": "Object_104",
+      "triangles_original": 37,
+      "triangles_preview": 37
+    },
+    {
+      "object": "Object_105",
+      "triangles_original": 108,
+      "triangles_preview": 108
+    },
+    {
+      "object": "Object_106",
+      "triangles_original": 67,
+      "triangles_preview": 67
+    },
+    {
+      "object": "Object_107",
+      "triangles_original": 6,
+      "triangles_preview": 6
+    },
+    {
+      "object": "Object_108",
+      "triangles_original": 6,
+      "triangles_preview": 6
+    },
+    {
+      "object": "Object_11",
+      "triangles_original": 12,
+      "triangles_preview": 12
+    },
+    {
+      "object": "Object_110",
+      "triangles_original": 195,
+      "triangles_preview": 195
+    },
+    {
+      "object": "Object_112",
+      "triangles_original": 156,
+      "triangles_preview": 156
+    },
+    {
+      "object": "Object_114",
+      "triangles_original": 60,
+      "triangles_preview": 60
+    },
+    {
+      "object": "Object_115",
+      "triangles_original": 1404,
+      "triangles_preview": 1404
+    },
+    {
+      "object": "Object_116",
+      "triangles_original": 15918,
+      "triangles_preview": 4775
+    },
+    {
+      "object": "Object_117",
+      "triangles_original": 3815,
+      "triangles_preview": 1144
+    },
+    {
+      "object": "Object_118",
+      "triangles_original": 253,
+      "triangles_preview": 253
+    },
+    {
+      "object": "Object_119",
+      "triangles_original": 1277,
+      "triangles_preview": 1277
+    },
+    {
+      "object": "Object_12",
+      "triangles_original": 24,
+      "triangles_preview": 24
+    },
+    {
+      "object": "Object_120",
+      "triangles_original": 271,
+      "triangles_preview": 271
+    },
+    {
+      "object": "Object_121",
+      "triangles_original": 51,
+      "triangles_preview": 51
+    },
+    {
+      "object": "Object_122",
+      "triangles_original": 11,
+      "triangles_preview": 11
+    },
+    {
+      "object": "Object_124",
+      "triangles_original": 138,
+      "triangles_preview": 138
+    },
+    {
+      "object": "Object_126",
+      "triangles_original": 27701,
+      "triangles_preview": 8309
+    },
+    {
+      "object": "Object_14",
+      "triangles_original": 1406,
+      "triangles_preview": 1406
+    },
+    {
+      "object": "Object_142",
+      "triangles_original": 195,
+      "triangles_preview": 195
+    },
+    {
+      "object": "Object_146",
+      "triangles_original": 60,
+      "triangles_preview": 60
+    },
+    {
+      "object": "Object_147",
+      "triangles_original": 1443,
+      "triangles_preview": 1443
+    },
+    {
+      "object": "Object_148",
+      "triangles_original": 15918,
+      "triangles_preview": 4775
+    },
+    {
+      "object": "Object_149",
+      "triangles_original": 3776,
+      "triangles_preview": 1132
+    },
+    {
+      "object": "Object_15",
+      "triangles_original": 16202,
+      "triangles_preview": 4860
+    },
+    {
+      "object": "Object_150",
+      "triangles_original": 253,
+      "triangles_preview": 253
+    },
+    {
+      "object": "Object_151",
+      "triangles_original": 1277,
+      "triangles_preview": 1277
+    },
+    {
+      "object": "Object_152",
+      "triangles_original": 271,
+      "triangles_preview": 271
+    },
+    {
+      "object": "Object_153",
+      "triangles_original": 51,
+      "triangles_preview": 51
+    },
+    {
+      "object": "Object_154",
+      "triangles_original": 11,
+      "triangles_preview": 11
+    },
+    {
+      "object": "Object_156",
+      "triangles_original": 138,
+      "triangles_preview": 138
+    },
+    {
+      "object": "Object_158",
+      "triangles_original": 24,
+      "triangles_preview": 24
+    },
+    {
+      "object": "Object_16",
+      "triangles_original": 1146,
+      "triangles_preview": 1146
+    },
+    {
+      "object": "Object_160",
+      "triangles_original": 24,
+      "triangles_preview": 24
+    },
+    {
+      "object": "Object_162",
+      "triangles_original": 261,
+      "triangles_preview": 261
+    },
+    {
+      "object": "Object_163",
+      "triangles_original": 14,
+      "triangles_preview": 14
+    },
+    {
+      "object": "Object_164",
+      "triangles_original": 814,
+      "triangles_preview": 814
+    },
+    {
+      "object": "Object_165",
+      "triangles_original": 2218,
+      "triangles_preview": 2218
+    },
+    {
+      "object": "Object_166",
+      "triangles_original": 632,
+      "triangles_preview": 632
+    },
+    {
+      "object": "Object_167",
+      "triangles_original": 8,
+      "triangles_preview": 8
+    },
+    {
+      "object": "Object_168",
+      "triangles_original": 53,
+      "triangles_preview": 53
+    },
+    {
+      "object": "Object_169",
+      "triangles_original": 40,
+      "triangles_preview": 40
+    },
+    {
+      "object": "Object_17",
+      "triangles_original": 1884,
+      "triangles_preview": 1884
+    },
+    {
+      "object": "Object_170",
+      "triangles_original": 1434,
+      "triangles_preview": 1434
+    },
+    {
+      "object": "Object_172",
+      "triangles_original": 4886,
+      "triangles_preview": 1465
+    },
+    {
+      "object": "Object_173",
+      "triangles_original": 216,
+      "triangles_preview": 216
+    },
+    {
+      "object": "Object_174",
+      "triangles_original": 548,
+      "triangles_preview": 548
+    },
+    {
+      "object": "Object_175",
+      "triangles_original": 326,
+      "triangles_preview": 326
+    },
+    {
+      "object": "Object_176",
+      "triangles_original": 3241,
+      "triangles_preview": 972
+    },
+    {
+      "object": "Object_177",
+      "triangles_original": 266,
+      "triangles_preview": 266
+    },
+    {
+      "object": "Object_179",
+      "triangles_original": 76,
+      "triangles_preview": 76
+    },
+    {
+      "object": "Object_18",
+      "triangles_original": 9760,
+      "triangles_preview": 2928
+    },
+    {
+      "object": "Object_181",
+      "triangles_original": 76,
+      "triangles_preview": 76
+    },
+    {
+      "object": "Object_183",
+      "triangles_original": 195,
+      "triangles_preview": 195
+    },
+    {
+      "object": "Object_185",
+      "triangles_original": 195,
+      "triangles_preview": 195
+    },
+    {
+      "object": "Object_187",
+      "triangles_original": 248,
+      "triangles_preview": 248
+    },
+    {
+      "object": "Object_189",
+      "triangles_original": 248,
+      "triangles_preview": 248
+    },
+    {
+      "object": "Object_19",
+      "triangles_original": 1952,
+      "triangles_preview": 1952
+    },
+    {
+      "object": "Object_191",
+      "triangles_original": 129,
+      "triangles_preview": 129
+    },
+    {
+      "object": "Object_193",
+      "triangles_original": 129,
+      "triangles_preview": 129
+    },
+    {
+      "object": "Object_195",
+      "triangles_original": 10320,
+      "triangles_preview": 3096
+    },
+    {
+      "object": "Object_197",
+      "triangles_original": 22,
+      "triangles_preview": 22
+    },
+    {
+      "object": "Object_199",
+      "triangles_original": 22,
+      "triangles_preview": 22
+    },
+    {
+      "object": "Object_20",
+      "triangles_original": 28,
+      "triangles_preview": 28
+    },
+    {
+      "object": "Object_201",
+      "triangles_original": 1,
+      "triangles_preview": 1
+    },
+    {
+      "object": "Object_202",
+      "triangles_original": 1335,
+      "triangles_preview": 1335
+    },
+    {
+      "object": "Object_203",
+      "triangles_original": 192,
+      "triangles_preview": 192
+    },
+    {
+      "object": "Object_204",
+      "triangles_original": 384,
+      "triangles_preview": 384
+    },
+    {
+      "object": "Object_205",
+      "triangles_original": 3952,
+      "triangles_preview": 1185
+    },
+    {
+      "object": "Object_206",
+      "triangles_original": 2,
+      "triangles_preview": 2
+    },
+    {
+      "object": "Object_207",
+      "triangles_original": 870,
+      "triangles_preview": 870
+    },
+    {
+      "object": "Object_208",
+      "triangles_original": 2760,
+      "triangles_preview": 827
+    },
+    {
+      "object": "Object_209",
+      "triangles_original": 180,
+      "triangles_preview": 180
+    },
+    {
+      "object": "Object_21",
+      "triangles_original": 49,
+      "triangles_preview": 49
+    },
+    {
+      "object": "Object_210",
+      "triangles_original": 1427,
+      "triangles_preview": 1427
+    },
+    {
+      "object": "Object_211",
+      "triangles_original": 652,
+      "triangles_preview": 652
+    },
+    {
+      "object": "Object_212",
+      "triangles_original": 10,
+      "triangles_preview": 10
+    },
+    {
+      "object": "Object_213",
+      "triangles_original": 313,
+      "triangles_preview": 313
+    },
+    {
+      "object": "Object_214",
+      "triangles_original": 434,
+      "triangles_preview": 434
+    },
+    {
+      "object": "Object_215",
+      "triangles_original": 28,
+      "triangles_preview": 28
+    },
+    {
+      "object": "Object_216",
+      "triangles_original": 170,
+      "triangles_preview": 170
+    },
+    {
+      "object": "Object_217",
+      "triangles_original": 6871,
+      "triangles_preview": 2061
+    },
+    {
+      "object": "Object_218",
+      "triangles_original": 336,
+      "triangles_preview": 336
+    },
+    {
+      "object": "Object_22",
+      "triangles_original": 10,
+      "triangles_preview": 10
+    },
+    {
+      "object": "Object_220",
+      "triangles_original": 46,
+      "triangles_preview": 46
+    },
+    {
+      "object": "Object_221",
+      "triangles_original": 51006,
+      "triangles_preview": 15301
+    },
+    {
+      "object": "Object_223",
+      "triangles_original": 1132,
+      "triangles_preview": 1132
+    },
+    {
+      "object": "Object_225",
+      "triangles_original": 1132,
+      "triangles_preview": 1132
+    },
+    {
+      "object": "Object_227",
+      "triangles_original": 1132,
+      "triangles_preview": 1132
+    },
+    {
+      "object": "Object_23",
+      "triangles_original": 4,
+      "triangles_preview": 4
+    },
+    {
+      "object": "Object_231",
+      "triangles_original": 2293,
+      "triangles_preview": 2293
+    },
+    {
+      "object": "Object_232",
+      "triangles_original": 2730,
+      "triangles_preview": 819
+    },
+    {
+      "object": "Object_234",
+      "triangles_original": 394,
+      "triangles_preview": 394
+    },
+    {
+      "object": "Object_235",
+      "triangles_original": 820,
+      "triangles_preview": 820
+    },
+    {
+      "object": "Object_237",
+      "triangles_original": 190,
+      "triangles_preview": 190
+    },
+    {
+      "object": "Object_238",
+      "triangles_original": 48,
+      "triangles_preview": 48
+    },
+    {
+      "object": "Object_239",
+      "triangles_original": 372,
+      "triangles_preview": 372
+    },
+    {
+      "object": "Object_24",
+      "triangles_original": 237,
+      "triangles_preview": 237
+    },
+    {
+      "object": "Object_242.001",
+      "triangles_original": 51052,
+      "triangles_preview": 15315
+    },
+    {
+      "object": "Object_244",
+      "triangles_original": 46,
+      "triangles_preview": 46
+    },
+    {
+      "object": "Object_245",
+      "triangles_original": 52138,
+      "triangles_preview": 15641
+    },
+    {
+      "object": "Object_247",
+      "triangles_original": 46,
+      "triangles_preview": 46
+    },
+    {
+      "object": "Object_248",
+      "triangles_original": 51006,
+      "triangles_preview": 15301
+    },
+    {
+      "object": "Object_25",
+      "triangles_original": 620,
+      "triangles_preview": 620
+    },
+    {
+      "object": "Object_26",
+      "triangles_original": 8,
+      "triangles_preview": 8
+    },
+    {
+      "object": "Object_27",
+      "triangles_original": 214,
+      "triangles_preview": 214
+    },
+    {
+      "object": "Object_28",
+      "triangles_original": 12226,
+      "triangles_preview": 3667
+    },
+    {
+      "object": "Object_29",
+      "triangles_original": 24,
+      "triangles_preview": 24
+    },
+    {
+      "object": "Object_30",
+      "triangles_original": 74,
+      "triangles_preview": 74
+    },
+    {
+      "object": "Object_32",
+      "triangles_original": 946,
+      "triangles_preview": 946
+    },
+    {
+      "object": "Object_33",
+      "triangles_original": 4184,
+      "triangles_preview": 1255
+    },
+    {
+      "object": "Object_34",
+      "triangles_original": 2644,
+      "triangles_preview": 793
+    },
+    {
+      "object": "Object_35",
+      "triangles_original": 6868,
+      "triangles_preview": 2060
+    },
+    {
+      "object": "Object_37",
+      "triangles_original": 75358,
+      "triangles_preview": 22607
+    },
+    {
+      "object": "Object_38",
+      "triangles_original": 34,
+      "triangles_preview": 34
+    },
+    {
+      "object": "Object_4",
+      "triangles_original": 2645,
+      "triangles_preview": 793
+    },
+    {
+      "object": "Object_40",
+      "triangles_original": 57,
+      "triangles_preview": 57
+    },
+    {
+      "object": "Object_41",
+      "triangles_original": 12,
+      "triangles_preview": 12
+    },
+    {
+      "object": "Object_42",
+      "triangles_original": 60,
+      "triangles_preview": 60
+    },
+    {
+      "object": "Object_44",
+      "triangles_original": 72,
+      "triangles_preview": 72
+    },
+    {
+      "object": "Object_46",
+      "triangles_original": 76,
+      "triangles_preview": 76
+    },
+    {
+      "object": "Object_48",
+      "triangles_original": 72,
+      "triangles_preview": 72
+    },
+    {
+      "object": "Object_5",
+      "triangles_original": 37468,
+      "triangles_preview": 11239
+    },
+    {
+      "object": "Object_50",
+      "triangles_original": 76,
+      "triangles_preview": 76
+    },
+    {
+      "object": "Object_52",
+      "triangles_original": 332,
+      "triangles_preview": 332
+    },
+    {
+      "object": "Object_53",
+      "triangles_original": 2,
+      "triangles_preview": 2
+    },
+    {
+      "object": "Object_55",
+      "triangles_original": 12,
+      "triangles_preview": 12
+    },
+    {
+      "object": "Object_56",
+      "triangles_original": 114,
+      "triangles_preview": 114
+    },
+    {
+      "object": "Object_58",
+      "triangles_original": 346,
+      "triangles_preview": 346
+    },
+    {
+      "object": "Object_6",
+      "triangles_original": 262,
+      "triangles_preview": 262
+    },
+    {
+      "object": "Object_60",
+      "triangles_original": 930,
+      "triangles_preview": 930
+    },
+    {
+      "object": "Object_61",
+      "triangles_original": 3228,
+      "triangles_preview": 968
+    },
+    {
+      "object": "Object_62",
+      "triangles_original": 420,
+      "triangles_preview": 420
+    },
+    {
+      "object": "Object_64",
+      "triangles_original": 2956,
+      "triangles_preview": 886
+    },
+    {
+      "object": "Object_68",
+      "triangles_original": 958,
+      "triangles_preview": 958
+    },
+    {
+      "object": "Object_7",
+      "triangles_original": 80,
+      "triangles_preview": 80
+    },
+    {
+      "object": "Object_70",
+      "triangles_original": 36,
+      "triangles_preview": 36
+    },
+    {
+      "object": "Object_72",
+      "triangles_original": 3708,
+      "triangles_preview": 1112
+    },
+    {
+      "object": "Object_74",
+      "triangles_original": 872,
+      "triangles_preview": 872
+    },
+    {
+      "object": "Object_75",
+      "triangles_original": 2,
+      "triangles_preview": 2
+    },
+    {
+      "object": "Object_76",
+      "triangles_original": 2,
+      "triangles_preview": 2
+    },
+    {
+      "object": "Object_77",
+      "triangles_original": 912,
+      "triangles_preview": 912
+    },
+    {
+      "object": "Object_78",
+      "triangles_original": 1966,
+      "triangles_preview": 1966
+    },
+    {
+      "object": "Object_79",
+      "triangles_original": 776,
+      "triangles_preview": 776
+    },
+    {
+      "object": "Object_8",
+      "triangles_original": 33524,
+      "triangles_preview": 10056
+    },
+    {
+      "object": "Object_80",
+      "triangles_original": 102,
+      "triangles_preview": 102
+    },
+    {
+      "object": "Object_81",
+      "triangles_original": 800,
+      "triangles_preview": 800
+    },
+    {
+      "object": "Object_82",
+      "triangles_original": 1442,
+      "triangles_preview": 1442
+    },
+    {
+      "object": "Object_84",
+      "triangles_original": 1592,
+      "triangles_preview": 1592
+    },
+    {
+      "object": "Object_85",
+      "triangles_original": 2883,
+      "triangles_preview": 864
+    },
+    {
+      "object": "Object_86",
+      "triangles_original": 4,
+      "triangles_preview": 4
+    },
+    {
+      "object": "Object_87",
+      "triangles_original": 3678,
+      "triangles_preview": 1103
+    },
+    {
+      "object": "Object_9",
+      "triangles_original": 714,
+      "triangles_preview": 714
+    },
+    {
+      "object": "Object_91",
+      "triangles_original": 9221,
+      "triangles_preview": 2766
+    },
+    {
+      "object": "Object_93",
+      "triangles_original": 5152,
+      "triangles_preview": 1545
+    },
+    {
+      "object": "Object_96",
+      "triangles_original": 244,
+      "triangles_preview": 244
+    },
+    {
+      "object": "Object_97",
+      "triangles_original": 3745,
+      "triangles_preview": 1123
+    },
+    {
+      "object": "Object_98",
+      "triangles_original": 15668,
+      "triangles_preview": 4699
+    },
+    {
+      "object": "Object_99",
+      "triangles_original": 4755,
+      "triangles_preview": 1426
+    }
+  ],
+  "images": [
+    {
+      "name": "02_Difuse.001_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "02_Difuse.001_normal.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "11BLACK.001_baseColor.png",
+      "original": [
+        64,
+        64
+      ],
+      "preview": [
+        64,
+        64
+      ]
+    },
+    {
+      "name": "665.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "930_chromes_baseColor.png",
+      "original": [
+        1024,
+        1024
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "930_chromes_metallicRoughness.png",
+      "original": [
+        1024,
+        1024
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "930_plastics_baseColor.png",
+      "original": [
+        2048,
+        2048
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "930_plastics_metallicRoughness.png",
+      "original": [
+        2048,
+        2048
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "anpr_v.003_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "base.001_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "carpet.003_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Cencom_diffuse.001_normal.png",
+      "original": [
+        1024,
+        512
+      ],
+      "preview": [
+        1024,
+        512
+      ]
+    },
+    {
+      "name": "Cencom_emissive.001_baseColor.png",
+      "original": [
+        1024,
+        512
+      ],
+      "preview": [
+        1024,
+        512
+      ]
+    },
+    {
+      "name": "cf54.001_baseColor.png",
+      "original": [
+        1024,
+        1024
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "cf54_emis.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Coban_tex.003_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Coban_tex.003_normal.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "console.003_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "console.003_normal.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "deng.001_baseColor.png",
+      "original": [
+        8,
+        8
+      ],
+      "preview": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "discbrake.004_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "dradar.003_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "emerglights.001_baseColor.png",
+      "original": [
+        1024,
+        1024
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Emis.001_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "for_badge.001_baseColor.png",
+      "original": [
+        512,
+        256
+      ],
+      "preview": [
+        512,
+        256
+      ]
+    },
+    {
+      "name": "genesis.001_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "glass.006_baseColor.png",
+      "original": [
+        2048,
+        2048
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "glass.006_metallicRoughness.png",
+      "original": [
+        2048,
+        2048
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "goma.002_baseColor.png",
+      "original": [
+        128,
+        64
+      ],
+      "preview": [
+        128,
+        64
+      ]
+    },
+    {
+      "name": "grill.001_baseColor.png",
+      "original": [
+        128,
+        128
+      ],
+      "preview": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "keyhole.001_baseColor.png",
+      "original": [
+        64,
+        64
+      ],
+      "preview": [
+        64,
+        64
+      ]
+    },
+    {
+      "name": "lasluces.001_baseColor.png",
+      "original": [
+        1024,
+        1024
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "leathers_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "leathersw.003_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "MAATE_WhelenDominator.001_baseColor.png",
+      "original": [
+        256,
+        128
+      ],
+      "preview": [
+        256,
+        128
+      ]
+    },
+    {
+      "name": "Moto-6500_defuse.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "pedals.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "rivet.001_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "spotlight.005_baseColor.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "spotlight_emis.001_normal.png",
+      "original": [
+        256,
+        256
+      ],
+      "preview": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "stitch.001_baseColor.png",
+      "original": [
+        128,
+        128
+      ],
+      "preview": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "symbol3.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "symbols.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "undercarriage.004_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "vehicle_generic_carbon.001_baseColor.png",
+      "original": [
+        128,
+        128
+      ],
+      "preview": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "vehicle_generic_carbon.001_normal.png",
+      "original": [
+        4,
+        4
+      ],
+      "preview": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "vehicle_generic_detail2.001_baseColor.png",
+      "original": [
+        1024,
+        1024
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "vehicle_generic_detail2.001_normal.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "vehicle_generic_smallspecmap__PAINT_1_.005_baseColor.png",
+      "original": [
+        2048,
+        2048
+      ],
+      "preview": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "vehicle_generic_tyrewallblack.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "vehicle_generic_tyrewallblack.001_baseColor.png.001",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "vehicle_generic_tyrewallblack.001_normal.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "vehicle_generic_tyrewallblack.001_normal.png.001",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "vehiclelights.010_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "vehiclelights128.001_baseColor.png",
+      "original": [
+        512,
+        512
+      ],
+      "preview": [
+        512,
+        512
+      ]
+    }
+  ],
+  "notes": [
+    "All 228 objects included; both scene roots retained.",
+    "Simplified preview geometry only. Original archive untouched.",
+    "Animation sampled at 24 fps, not cropped to the scene range.",
+    "Vertex-color alpha links unsupported by glTF may render differently."
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "wheels": [
+    {
+      "node": "[wheel_lf]_49",
+      "center": [
+        0,
+        0,
+        0
+      ],
+      "axis": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ],
+      "center_world": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "front": false,
+      "radius": 0.477
+    },
+    {
+      "node": "[wheel_lf_57.001",
+      "center": [
+        0,
+        0,
+        0
+      ],
+      "axis": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ],
+      "center_world": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "front": true,
+      "radius": 0.477
+    },
+    {
+      "node": "[wheel_l_58",
+      "center": [
+        0,
+        0,
+        0
+      ],
+      "axis": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ],
+      "center_world": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "front": true,
+      "radius": 0.477
+    },
+    {
+      "node": "[wheel_59",
+      "center": [
+        0,
+        0,
+        0
+      ],
+      "axis": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ],
+      "center_world": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "front": false,
+      "radius": 0.477
+    }
+  ],
+  "steering": {
+    "node": "steeringwheel_35",
+    "center": [
+      0,
+      0,
+      0
+    ],
+    "axis": [
+      0,
+      0,
+      1
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "center_world": [
+      0.0,
+      0.0,
+      -0.0
+    ],
+    "isolate_nodes": [
+      "Object_162",
+      "Object_163",
+      "Object_164",
+      "Object_165",
+      "Object_166",
+      "Object_167",
+      "Object_168",
+      "Object_169",
+      "Object_170"
+    ]
+  }
+}
