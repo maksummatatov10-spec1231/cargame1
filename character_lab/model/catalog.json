@@ -1,0 +1,62 @@
+[
+  {
+    "id": "backward_right_turn",
+    "title": "Шаг назад с поворотом вправо",
+    "file": "backward_right_turn.glb",
+    "source": "Backward Right Turn.fbx",
+    "fps": 60,
+    "start": 1.0,
+    "end": 77.0,
+    "duration": 1.2666666666666666,
+    "kind": "source",
+    "bones": 65
+  },
+  {
+    "id": "breathing_idle",
+    "title": "Ожидание / дыхание",
+    "file": "breathing_idle.glb",
+    "source": "Breathing Idle.fbx",
+    "fps": 60,
+    "start": 1.0,
+    "end": 596.0,
+    "duration": 9.916666666666666,
+    "kind": "source",
+    "bones": 65
+  },
+  {
+    "id": "running",
+    "title": "Бег",
+    "file": "running.glb",
+    "source": "Running.fbx",
+    "fps": 60,
+    "start": 1.0,
+    "end": 39.0,
+    "duration": 0.6333333333333333,
+    "kind": "source",
+    "bones": 65
+  },
+  {
+    "id": "walking",
+    "title": "Ходьба",
+    "file": "walking.glb",
+    "source": "Walking.fbx",
+    "fps": 60,
+    "start": 1.0,
+    "end": 62.0,
+    "duration": 1.0166666666666666,
+    "kind": "source",
+    "bones": 65
+  },
+  {
+    "id": "y_bot",
+    "title": "Y Bot / базовая поза",
+    "file": "y_bot.glb",
+    "source": "Y Bot.fbx",
+    "fps": 30,
+    "start": 1.0,
+    "end": 2.0,
+    "duration": 0.03333333333333333,
+    "kind": "source",
+    "bones": 65
+  }
+]

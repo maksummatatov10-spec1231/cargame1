@@ -1,0 +1,587 @@
+{
+  "method": "All actual skinned triangle surfaces versus all car meshes, 49 samples at 0.25 seconds. Includes contacts; does not certify continuous motion, penetration depth, solid containment or self-collision.",
+  "status": "FAIL: intersections remain",
+  "samples": [
+    {
+      "time": 0,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 0.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 0.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 0.75,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 1,
+      "intersectedMeshes": [
+        "Object_95_4"
+      ]
+    },
+    {
+      "time": 1.25,
+      "intersectedMeshes": [
+        "Object_95_4"
+      ]
+    },
+    {
+      "time": 1.5,
+      "intersectedMeshes": [
+        "Object_95_4"
+      ]
+    },
+    {
+      "time": 1.75,
+      "intersectedMeshes": [
+        "Object_95_4"
+      ]
+    },
+    {
+      "time": 2,
+      "intersectedMeshes": [
+        "Object_95_4",
+        "Object_95_3"
+      ]
+    },
+    {
+      "time": 2.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 2.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 2.75,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3.75,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_8",
+        "Object_72"
+      ]
+    },
+    {
+      "time": 4,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_8",
+        "Object_15"
+      ]
+    },
+    {
+      "time": 4.25,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_15",
+        "Object_8"
+      ]
+    },
+    {
+      "time": 4.5,
+      "intersectedMeshes": [
+        "Object_15",
+        "Object_18"
+      ]
+    },
+    {
+      "time": 4.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_162",
+        "Object_165",
+        "Object_170",
+        "Object_15",
+        "Object_16",
+        "Object_166"
+      ]
+    },
+    {
+      "time": 5,
+      "intersectedMeshes": [
+        "Object_15",
+        "Object_16",
+        "Object_18",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_5"
+      ]
+    },
+    {
+      "time": 5.25,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_8",
+        "Object_15",
+        "Object_18",
+        "Object_72",
+        "Object_162",
+        "Object_165",
+        "Object_170",
+        "Object_16",
+        "Object_19",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 5.5,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_8",
+        "Object_15",
+        "Object_18",
+        "Object_72",
+        "Object_165",
+        "Object_170",
+        "Object_16",
+        "Object_19",
+        "Object_25",
+        "Object_162"
+      ]
+    },
+    {
+      "time": 5.75,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_15",
+        "Object_72",
+        "Object_165",
+        "Object_170",
+        "Object_8",
+        "Object_16",
+        "Object_18",
+        "Object_19",
+        "Object_25",
+        "Object_162",
+        "Object_164"
+      ]
+    },
+    {
+      "time": 6,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_14",
+        "Object_15",
+        "Object_16",
+        "Object_18",
+        "Object_19",
+        "Object_25",
+        "Object_72",
+        "Object_165",
+        "Object_170",
+        "Object_8",
+        "Object_162",
+        "Object_164"
+      ]
+    },
+    {
+      "time": 6.25,
+      "intersectedMeshes": [
+        "Object_14",
+        "Object_15",
+        "Object_16",
+        "Object_18",
+        "Object_19",
+        "Object_25",
+        "Object_165",
+        "Object_162",
+        "Object_164",
+        "Object_166",
+        "Object_170"
+      ]
+    },
+    {
+      "time": 6.5,
+      "intersectedMeshes": [
+        "Object_15",
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_16",
+        "Object_19",
+        "Object_162",
+        "Object_168",
+        "Object_170"
+      ]
+    },
+    {
+      "time": 6.75,
+      "intersectedMeshes": [
+        "Object_15",
+        "Object_18",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_5",
+        "Object_8",
+        "Object_19",
+        "Object_25",
+        "Object_162"
+      ]
+    },
+    {
+      "time": 7,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_15",
+        "Object_18",
+        "Object_162",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_8",
+        "Object_19",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 7.25,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_15",
+        "Object_18",
+        "Object_162",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_8",
+        "Object_19",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 7.5,
+      "intersectedMeshes": [
+        "Object_5",
+        "Object_15",
+        "Object_18",
+        "Object_162",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_8",
+        "Object_19",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 7.75,
+      "intersectedMeshes": [
+        "Object_15",
+        "Object_18",
+        "Object_162",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_168",
+        "Object_170",
+        "Object_5",
+        "Object_8",
+        "Object_16",
+        "Object_19",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 8,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_168",
+        "Object_170",
+        "Object_5",
+        "Object_8",
+        "Object_15",
+        "Object_19",
+        "Object_162"
+      ]
+    },
+    {
+      "time": 8.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_5",
+        "Object_8",
+        "Object_15",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 8.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_5",
+        "Object_8",
+        "Object_15",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 8.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 9,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 9.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 9.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 9.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 10,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_16",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 10.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_95_1",
+        "Object_95_3",
+        "Object_95_7",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_15",
+        "Object_19",
+        "Object_95_10",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 10.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_95_3",
+        "Object_95_7",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_15",
+        "Object_19",
+        "Object_95",
+        "Object_95_4",
+        "Object_95_10",
+        "Object_95_13",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 10.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_95_3",
+        "Object_95_7",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_5",
+        "Object_15",
+        "Object_19",
+        "Object_95_4",
+        "Object_95_10",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 11,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_95_3",
+        "Object_95_7",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_15",
+        "Object_19",
+        "Object_95_4",
+        "Object_95_10",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 11.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_95_3",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 11.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    },
+    {
+      "time": 11.75,
+      "intersectedMeshes": [
+        "Object_15",
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_168",
+        "Object_170",
+        "Object_19",
+        "Object_162"
+      ]
+    },
+    {
+      "time": 12,
+      "intersectedMeshes": [
+        "Object_15",
+        "Object_18",
+        "Object_25",
+        "Object_164",
+        "Object_165",
+        "Object_166",
+        "Object_170",
+        "Object_19",
+        "Object_162",
+        "Object_168"
+      ]
+    }
+  ]
+}
