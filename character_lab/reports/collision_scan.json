@@ -1,0 +1,275 @@
+{
+  "method": "Even/odd containment from the world location of 18 key joints against measured interior/seat/steering meshes at 0.25-second intervals. This detects representative joints inside cabin geometry; it is not full mesh-to-mesh collision certification.",
+  "samples": [
+    {
+      "time": 0,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 0.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 0.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 0.75,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 1,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 1.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 1.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 1.75,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 2,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 2.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 2.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 2.75,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 3.75,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 4,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 4.25,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 4.5,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 4.75,
+      "intersectedMeshes": []
+    },
+    {
+      "time": 5,
+      "intersectedMeshes": [
+        "Object_15"
+      ]
+    },
+    {
+      "time": 5.25,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 5.5,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 5.75,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 6,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 6.25,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 6.5,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 6.75,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 7,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 7.25,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 7.5,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 7.75,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 8,
+      "intersectedMeshes": [
+        "Object_18"
+      ]
+    },
+    {
+      "time": 8.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 8.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 8.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 9,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 9.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 9.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 9.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 10,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 10.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 10.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 10.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 11,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 11.25,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 11.5,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 11.75,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    },
+    {
+      "time": 12,
+      "intersectedMeshes": [
+        "Object_18",
+        "Object_25"
+      ]
+    }
+  ]
+}
